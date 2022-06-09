@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "my-portfolio",
   "version": "0.1.0",
   "private": false,
   "homepage": "https://emmanuelbitang.github.io",
@@ -18,9 +18,9 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
     "start": "react-scripts start",
-    "build": "react-scripts --openssl-legacy-provider build",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
     "test": "react-scripts --openssl-legacy-provider test",
     "eject": "react-scripts --openssl-legacy-provider eject",
     "lint": "eslint .",
