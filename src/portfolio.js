@@ -25,7 +25,7 @@ const projects = [
     description: `Design and created a responsive website for a makeup business with a 1k+ followers, boosting the brands visibility and increasing its personal care service offers for 30% more. Providing general information and a way for the makeup business to reach potential clients and customers locally through the site.`,
     stack: ['React', 'TypeScript', 'Javascript', 'JSX','Styled-components','Node JS'],
     sourceCode: 'https://github.com/emmanuelbitang/selynmakeem',
-    livePreview: 'https://www.selynmakeem.online/',
+    livePreview: 'https://www.selynmakeem.site/',
   },
   {
     name: 'Jed Photography!',
@@ -33,7 +33,7 @@ const projects = [
     description: `Implemented, maintained, and designed a mobile friendly website for a photography business with a 1k+ followers. Through this site the business was able to attract 50% more followers and clients, reaching a wider audience for online promotion of services and offers, and establishing or enhancing brand recognition.`,
     stack: ['JSX', 'TypeScript', 'React', 'Node JS', 'Styled-components', 'CSS'],
     sourceCode: 'https://github.com/emmanuelbitang/jedphotography',
-    livePreview: 'https://www.jedphotography.online/',
+    livePreview: 'https://www.jed-photography.online/',
   },  
   {
     name: 'My Todo App',
@@ -80,6 +80,7 @@ const skills = [
   'Oracle',
   'MongoDB',
   'SQL',
+  'GitLab'
 ]
 
 const contact = {
