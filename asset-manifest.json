@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d4376e2.chunk.css",
-    "main.js": "/static/js/main.a96fdb93.chunk.js",
-    "main.js.map": "/static/js/main.a96fdb93.chunk.js.map",
+    "main.css": "/static/css/main.0146a157.chunk.css",
+    "main.js": "/static/js/main.79b814a6.chunk.js",
+    "main.js.map": "/static/js/main.79b814a6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8691016b.js",
     "runtime-main.js.map": "/static/js/runtime-main.8691016b.js.map",
     "static/js/2.630dfc62.chunk.js": "/static/js/2.630dfc62.chunk.js",
     "static/js/2.630dfc62.chunk.js.map": "/static/js/2.630dfc62.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1d4376e2.chunk.css.map": "/static/css/main.1d4376e2.chunk.css.map",
+    "static/css/main.0146a157.chunk.css.map": "/static/css/main.0146a157.chunk.css.map",
     "static/js/2.630dfc62.chunk.js.LICENSE.txt": "/static/js/2.630dfc62.chunk.js.LICENSE.txt",
-    "static/media/Emmanuel_Bitang.pdf": "/static/media/Emmanuel_Bitang.ed1f1f7b.pdf",
+    "static/media/Emmanuel_Bitang.pdf": "/static/media/Emmanuel_Bitang.6df06225.pdf",
     "static/media/crypto.jpg": "/static/media/crypto.4fa30123.jpg",
     "static/media/jedphotography.jpg": "/static/media/jedphotography.64c4b8f4.jpg",
     "static/media/todoapp.jpg": "/static/media/todoapp.a178daca.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.8691016b.js",
     "static/js/2.630dfc62.chunk.js",
-    "static/css/main.1d4376e2.chunk.css",
-    "static/js/main.a96fdb93.chunk.js"
+    "static/css/main.0146a157.chunk.css",
+    "static/js/main.79b814a6.chunk.js"
   ]
 }
