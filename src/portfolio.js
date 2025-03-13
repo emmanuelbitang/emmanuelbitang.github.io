@@ -19,22 +19,29 @@ const about = {
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
-  {
-    name: `Selyn Make'em`,
-    projectImage: require('./images/selynmakeem.jpg').default,
-    description: `Design and created a responsive website for a makeup business with a 1k+ followers, boosting the brands visibility and increasing its personal care service offers for 30% more. Providing general information and a way for the makeup business to reach potential clients and customers locally through the site.`,
-    stack: ['React', 'TypeScript', 'Javascript', 'JSX','Styled-components','Node JS'],
-    sourceCode: 'https://github.com/emmanuelbitang/selynmakeem',
-    livePreview: 'https://selynmakeem.netlify.app/',
-  },
+  // {
+  //   name: `Selyn Make'em`,
+  //   projectImage: require('./images/selynmakeem.jpg').default,
+  //   description: `Design and created a responsive website for a makeup business with a 1k+ followers, boosting the brands visibility and increasing its personal care service offers for 30% more. Providing general information and a way for the makeup business to reach potential clients and customers locally through the site.`,
+  //   stack: ['React', 'TypeScript', 'Javascript', 'JSX','Styled-components','Node JS'],
+  //   sourceCode: 'https://github.com/emmanuelbitang/selynmakeem',
+  //   livePreview: 'https://selynmakeem.netlify.app/',
+  // },
   {
     name: 'Jed Photography!',
     projectImage: require('./images/jedphotography.jpg').default,
     description: `Implemented, maintained, and designed a mobile friendly website for a photography business with a 1k+ followers. Through this site the business was able to attract 50% more followers and clients, reaching a wider audience for online promotion of services and offers, and establishing or enhancing brand recognition.`,
-    stack: ['JSX', 'TypeScript', 'React', 'Node JS', 'Styled-components', 'CSS'],
+    stack: [
+      'JSX',
+      'TypeScript',
+      'React',
+      'Node JS',
+      'Styled-components',
+      'CSS',
+    ],
     sourceCode: 'https://github.com/emmanuelbitang/jedphotography',
     livePreview: 'https://crised-studio.com/',
-  },  
+  },
   {
     name: 'My Todo App',
     projectImage: require('./images/todoapp.jpg').default,
@@ -80,7 +87,7 @@ const skills = [
   'Oracle',
   'MongoDB',
   'SQL',
-  'GitLab'
+  'GitLab',
 ]
 
 const contact = {
