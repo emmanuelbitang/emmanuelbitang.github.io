@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7c9b7e2.css",
+    "main.js": "/static/js/main.8c900ca5.js",
+    "static/media/Emmanuel_Bitang.pdf": "/static/media/Emmanuel_Bitang.ee675f56b1f1545b8eb2.pdf",
+    "static/media/crypto.jpg": "/static/media/crypto.4fa3012303a0291bc3d4.jpg",
+    "static/media/travel.jpg": "/static/media/travel.69e77697249a115c598d.jpg",
+    "static/media/todoapp.jpg": "/static/media/todoapp.a178dacab87c63881f35.jpg",
+    "static/media/waving-hand.png": "/static/media/waving-hand.2702180c158a27d8892a.png",
+    "static/media/jedphotography.jpg": "/static/media/jedphotography.64c4b8f474b90a587d3b.jpg",
+    "index.html": "/index.html",
+    "main.a7c9b7e2.css.map": "/static/css/main.a7c9b7e2.css.map",
+    "main.8c900ca5.js.map": "/static/js/main.8c900ca5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c9b7e2.css",
+    "static/js/main.8c900ca5.js"
+  ]
+}
