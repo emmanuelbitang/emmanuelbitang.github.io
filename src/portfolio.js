@@ -8,7 +8,7 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Emmanuel Bitang',
   role: 'Full Stack Javascript Developer',
-  description: `Hello! I'm a Manila-based Full Stack Web Developer. If I'm not freelancing for some businesses here in Philippines. I'm working remotely on projects for clients all over the world. I have a diverse set of skills, ranging from design, to HTML + CSS + Javascript, all the way to ReactJS and responsive websites. This also may include a CMS, API's or other integration. If you are interested in my work, let me help you get your idea into the world. For questions or inquiries you can call me at +63926-170-9017.`,
+  description: `I'm a Manila-based Full Stack Web Developer who balances local freelance work for Philippine businesses with remote projects for international clients. I possess a diverse skill set, ranging from design and the fundamentals of HTML, CSS, and JavaScript to modern frameworks like ReactJS and developing responsive websites. My experience also includes working with CMS, APIs, and various other integrations. If you're interested in my work, let me help you bring your idea to the world. For questions or inquiries, you can reach me at +63926-170-9017.`,
   resume: require('./contexts/Emmanuel_Bitang.pdf'),
   social: {
     linkedin: 'https://www.linkedin.com/in/emmanuel-bitang-05614a141/',
