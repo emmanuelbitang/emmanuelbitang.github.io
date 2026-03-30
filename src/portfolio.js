@@ -7,8 +7,13 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Emmanuel Bitang',
-  role: 'Full Stack Javascript Developer',
-  description: `I'm a Manila-based Full Stack Web Developer who balances local freelance work for Philippine businesses with remote projects for international clients. I possess a diverse skill set, ranging from design and the fundamentals of HTML, CSS, and JavaScript to modern frameworks like ReactJS and developing responsive websites. My experience also includes working with CMS, APIs, and various other integrations. If you're interested in my work, let me help you bring your idea to the world. For questions or inquiries, you can reach me at +63926-170-9017.`,
+  role: 'Full Stack JavaScript & Python Developer',
+  description: `I’m a Manila-based Full Stack Web Developer with experience delivering projects for Philippine businesses and international clients. My expertise spans design fundamentals — HTML, CSS, and JavaScript — to modern frameworks like ReactJS, alongside Python for backend development, automation, and data-driven solutions.
+
+I also specialize in AI engineering, applying machine learning and intelligent automation to build smarter, scalable digital products. From responsive websites and CMS platforms to API integrations and AI-powered applications, I create seamless solutions tailored to diverse business needs.
+
+📩 Reach me at +63 926 170 9017`,
+  // description: `I'm a Manila-based Full Stack Web Developer who balances local freelance work for Philippine businesses with remote projects for international clients. I possess a diverse skill set, ranging from design and the fundamentals of HTML, CSS, and JavaScript to modern frameworks like ReactJS and developing responsive websites. My experience also includes working with CMS, APIs, and various other integrations. If you're interested in my work, let me help you bring your idea to the world. For questions or inquiries, you can reach me at +63926-170-9017.`,
   resume: require('./contexts/Emmanuel_Bitang.pdf'),
   social: {
     linkedin: 'https://www.linkedin.com/in/emmanuel-bitang-05614a141/',
@@ -43,6 +48,31 @@ const projects = [
     livePreview: 'https://crised-studio.com/',
   },
   {
+    name: 'ReAct-Agent',
+    projectImage: require('./images/ReAct-AI.png'),
+    description: `A conversational AI agent built with LangChain and LangGraph, powered by OpenAI’s GPT models. This system is designed to intelligently interpret user requests, manage multi-turn conversations, and coordinate tool interactions with precision. By combining natural language understanding with structured workflow management, the agent can dynamically invoke APIs, handle complex tasks, and adapt to context across conversations.`,
+    stack: [
+      'LangChain',
+      'LangGraph',
+      'OpenAI API',
+      'Python 3.11+',
+    ],
+    sourceCode: 'https://github.com/emmanuelbitang/ReAct-Agent',
+    livePreview: 'https://youtu.be/N7QSldhtTPM',
+  },
+  {
+    name: 'Resume-Critiquer',
+    projectImage: require('./images/resume-critiquer.png'),
+    description: `A professional platform that leverages artificial intelligence to evaluate and enhance resumes with precision. It provides constructive feedback on structure, clarity, and keyword optimization, ensuring alignment with industry standards and applicant tracking systems (ATS). By highlighting strengths and identifying areas for improvement, the tool empowers job seekers to refine their resumes into compelling, recruiter-ready documents that increase visibility and improve interview success.`,
+    stack: [
+      'Streamlit',
+      'OpenAI API',
+      'Python 3.14+',
+    ],
+    sourceCode: 'https://github.com/emmanuelbitang/Resume-Critiquer',
+    livePreview: 'https://resume-critiquer.streamlit.app/',
+  },
+  {
     name: 'My Todo App',
     projectImage: require('./images/todoapp.jpg'),
     description: `Created a to-do app using react hooks for writing things need to be done which helps reduce stress. This app increased my productivity for 50% more and get the feeling that I have control on my work and actions. By crossing items off gives me that sense of accomplishment and progress and helps me get motivated and keep going when things get tough`,
@@ -71,6 +101,11 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+     'Streamlit',
+      'OpenAI API',
+         'LangChain',
+      'LangGraph',
+      'Python',
   'HTML',
   'CSS',
   'JavaScript',
